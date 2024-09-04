@@ -1,8 +1,8 @@
 {
-	"name": "@relata-tech/symbols",
+	"name": "relata-tech-symbols",
 	"displayName": "Relata's wrapper for Symbols",
 	"description": "A simple file icon theme for VS Code",
-	"version": "100.0.20",
+	"version": "100.0.29",
 	"private": false,
 	"publishConfig": {
 		"access": "public"
@@ -85,7 +85,8 @@
 		"check-format": "biome check .",
 		"check-format:fix": "biome check --apply .",
 		"precommit": "npm run check-format && npm run lint",
-		"release": "release-it"
+		"release": "release-it",
+		"generate-vscode-extension": "vsce package " 
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.7.2",

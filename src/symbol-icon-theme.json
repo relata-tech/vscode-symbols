@@ -1,5 +1,12 @@
 {
 	"iconDefinitions": {
+		"api-controller": { "iconPath": "./icons/files/api-controller.svg" },
+		"api-request": { "iconPath": "./icons/files/api-request.svg" },
+		"api-response": { "iconPath": "./icons/files/api-response.svg" },
+		"usecase": { "iconPath": "./icons/files/usecase.svg" },
+		"usecase-input": { "iconPath": "./icons/files/usecase-input.svg" },
+		"usecase-result": { "iconPath": "./icons/files/usecase-result.svg" },
+
 		"folder": { "iconPath": "./icons/folders/folder.svg" },
 		"folder-assets": { "iconPath": "./icons/folders/folder-assets.svg" },
 		"folder-red": { "iconPath": "./icons/folders/folder-red.svg" },
@@ -942,7 +949,6 @@
 		"docker-compose.ci.yaml": "docker",
 		"docker-compose.web.yaml": "docker",
 		"docker-compose.worker.yaml": "docker",
-		"compose.yaml": "docker",
 		"compose.yml": "docker",
 		"compose.override.yml": "docker",
 		"compose.prod.yml": "docker",
