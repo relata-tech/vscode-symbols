@@ -1,8 +1,10 @@
 {
 	"iconDefinitions": {
+		"api-contract": { "iconPath": "./icons/files/api-contract.svg" },
 		"api-controller": { "iconPath": "./icons/files/api-controller.svg" },
 		"api-request": { "iconPath": "./icons/files/api-request.svg" },
 		"api-response": { "iconPath": "./icons/files/api-response.svg" },
+		"adapter": { "iconPath": "./icons/files/adapter.svg" },
 		"usecase": { "iconPath": "./icons/files/usecase.svg" },
 		"usecase-input": { "iconPath": "./icons/files/usecase-input.svg" },
 		"usecase-result": { "iconPath": "./icons/files/usecase-result.svg" },
