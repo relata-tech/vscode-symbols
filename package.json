@@ -1,9 +1,9 @@
 {
-	"name": "symbols",
-	"displayName": "Symbols",
+	"name": "@relata-tech/symbols",
+	"displayName": "Relata's wrapper for Symbols",
 	"description": "A simple file icon theme for VS Code",
-	"version": "0.0.18",
-	"publisher": "miguelsolorio",
+	"version": "100.0.18",
+	"publisher": "relata-tech",
 	"icon": "symbols.png",
 	"preview": true,
 	"main": "./src/extension.js",
@@ -15,13 +15,13 @@
 	"keywords": ["icons", "theme", "icon-theme", "file-icon-theme", "file icons"],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/misolori/vscode-symbols.git"
+		"url": "https://github.com/relata-tech/vscode-symbols.git"
 	},
 	"bugs": {
-		"url": "https://github.com/misolori/vscode-symbols/issues"
+		"url": "https://github.com/relata-tech/vscode-symbols/issues"
 	},
 	"author": {
-		"name": "Miguel Solorio"
+		"name": "Relata Tech"
 	},
 	"capabilities": {
 		"untrustedWorkspaces": {
@@ -87,3 +87,8 @@
 		}
 	}
 }
+
+
+
+
+  
