@@ -2,7 +2,7 @@
 	"name": "@relata-tech/symbols",
 	"displayName": "Relata's wrapper for Symbols",
 	"description": "A simple file icon theme for VS Code",
-	"version": "100.0.19",
+	"version": "100.0.20",
 	"private": false,
 	"publishConfig": {
 		"access": "public"
