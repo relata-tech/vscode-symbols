@@ -4,6 +4,9 @@
 	"description": "A simple file icon theme for VS Code",
 	"version": "100.0.19",
 	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"publisher": "relata-tech",
 	"icon": "symbols.png",
 	"preview": true,
