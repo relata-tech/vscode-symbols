@@ -1,6 +1,5 @@
 {
 	"iconDefinitions": {
-		"api-contract": { "iconPath": "./icons/files/api-contract.svg" },
 		"api-controller": { "iconPath": "./icons/files/api-controller.svg" },
 		"api-request": { "iconPath": "./icons/files/api-request.svg" },
 		"api-response": { "iconPath": "./icons/files/api-response.svg" },
@@ -8,6 +7,8 @@
 		"usecase": { "iconPath": "./icons/files/usecase.svg" },
 		"usecase-input": { "iconPath": "./icons/files/usecase-input.svg" },
 		"usecase-result": { "iconPath": "./icons/files/usecase-result.svg" },
+		"services": { "iconPath": "./icons/files/services.svg" },
+		"folder-infra": { "iconPath": "./icons/folders/folder-infra.svg" },
 
 		"folder": { "iconPath": "./icons/folders/folder.svg" },
 		"folder-assets": { "iconPath": "./icons/folders/folder-assets.svg" },

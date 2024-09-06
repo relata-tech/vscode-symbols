@@ -1,14 +1,14 @@
 {
 	"name": "relata-tech-symbols",
-	"displayName": "Relata's wrapper for Symbols",
+	"displayName": "Relata's wrapper for Symbols. This is a fork of official Symbols extension.",
 	"description": "A simple file icon theme for VS Code",
-	"version": "100.0.38",
+	"version": "100.0.43",
 	"private": false,
 	"publishConfig": {
 		"access": "public"
 	},
-	"publisher": "relata-tech",
-	"icon": "symbols.png",
+	"publisher": "relatatech",
+	"icon": "relata-symbols.jpeg",
 	"preview": true,
 	"main": "./src/extension.js",
 	"engines": {
